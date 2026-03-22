@@ -1,0 +1,94 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [title] => Classic Tomato Pasta
+            [image_url] => images/tomato_pasta.jpg
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [title] => Avocado Toast
+            [image_url] => images/avocado_toast.jpg
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [title] => Chicken Stir Fry
+            [image_url] => images/chicken_stir_fry.jpg
+        )
+
+    [3] => Array
+        (
+            [id] => 5
+            [title] => Spaghetti Carbonara
+            [image_url] => images/carbonara.jpg
+        )
+
+    [4] => Array
+        (
+            [id] => 6
+            [title] => Margherita Pizza
+            [image_url] => images/pizza.jpg
+        )
+
+    [5] => Array
+        (
+            [id] => 7
+            [title] => Pad Thai
+            [image_url] => images/pad_thai.jpg
+        )
+
+    [6] => Array
+        (
+            [id] => 8
+            [title] => Vegetable Gyoza
+            [image_url] => images/gyoza.jpg
+        )
+
+    [7] => Array
+        (
+            [id] => 9
+            [title] => Quinoa Salad
+            [image_url] => images/quinoa_salad.jpg
+        )
+
+    [8] => Array
+        (
+            [id] => 10
+            [title] => Lentil Curry
+            [image_url] => images/lentil_curry.jpg
+        )
+
+    [9] => Array
+        (
+            [id] => 11
+            [title] => Chocolate Lava Cake
+            [image_url] => images/lava_cake.jpg
+        )
+
+    [10] => Array
+        (
+            [id] => 12
+            [title] => Fruit Tart
+            [image_url] => images/fruit_tart.jpg
+        )
+
+    [11] => Array
+        (
+            [id] => 13
+            [title] => Tiramisu
+            [image_url] => images/tiramisu.jpg
+        )
+
+    [12] => Array
+        (
+            [id] => 14
+            [title] => Sushi Platter
+            [image_url] => images/sushi.jpg
+        )
+
+)
